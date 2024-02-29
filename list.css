@@ -1,0 +1,45 @@
+/* ul{
+    list-style-type: square;
+}
+ul{
+    list-style-type: square;
+}
+#sl{
+    color: red;
+}
+#rs{
+    color: chartreuse;
+}
+#ka{
+    color: hotpink;
+}
+body{
+    background-color: bisque;
+}
+ul{
+    background-color: crimson;
+}
+ol{
+    background-color: cyan;
+}
+#ol1{
+    background-color: orange;
+}
+#ul2{
+    background-color: darkblue;
+} */
+/* body{
+    background-image: linear-gradient(blue,bisque,hotpink);
+    height: 100vh;
+}
+ul{
+    background-image: linear-gradient(to right,white,yellow);
+}
+ol{
+    background-image: linear-gradient(to right bottom,bisque,red);
+} */
+body{
+    background-image: url(./images/fabien-bellanger-Qs1ql9tMIp0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
